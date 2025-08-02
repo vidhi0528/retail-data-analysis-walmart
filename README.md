@@ -1,4 +1,4 @@
-# Retail-Data-Analysis-Walmart
+# Retail-Data-Analysis-Walmart (End-to-End SQL + Python Project)
 This repository contains an end-to-end exploratory and business-driven data analysis project on Walmart’s transactional dataset.
 The analysis was performed using Python for data cleaning and transformation, and MySQL for deriving key business insights.
 
@@ -44,6 +44,13 @@ To analyze Walmart's sales data to identify business trends and provide actionab
 5. What is the average rating per city?
 6. How many transactions are made per branch?
 7. What is the sales performance month-wise and day-wise?
+
+## Project Structure
+|-- data/                     # Raw data and transformed data
+|-- sql_queries/              # SQL scripts for analysis and queries
+|-- notebooks/                # Jupyter notebooks for Python analysis
+|-- README.md                 # Project documentation
+|-- main.py                   # Main script for loading, cleaning, and processing data
    
 ## Walmart Analysis pipeline
-()
+(https://github.com/vidhi0528/retail-data-analysis-walmart/blob/main/Walmart_project_pipeline.png)
